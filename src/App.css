@@ -1,0 +1,10 @@
+.app__container
+   {display: flex;
+      
+      padding-top: 15px;
+    /* margin-top: 10vh */
+}
+.app__main{
+   margin-top: 10vh;
+}
+
